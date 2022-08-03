@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HomeWork1_6month</string>
+    <string name="text">text</string>
+    <string name="save">save</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="second_activity">Second Activity</string>
+</resources>
